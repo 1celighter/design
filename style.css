@@ -1,0 +1,54 @@
+html {
+  height: 100%;
+}
+body {
+  height: 1440px;
+  width: 5360px;
+}
+
+.logo {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 32px;
+  margin-top: 40px;
+  margin-left: 120px;
+}
+.vector1-logo {
+  border: 3.5px solid hsla(0, 0%, 0%, 1);
+  width: 56px;
+  margin-left: 175.62px;
+  margin-bottom: 69px;
+}
+.aboutUsNav,
+.servicesNav,
+.teamsNav {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  height: 25.6px;
+  color: hsla(0, 0%, 20%, 1);
+}
+.homeNav {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  height: 22.4px;
+}
+.borderForContactNav {
+  border: 1px solid hsla(231, 46%, 32%, 1);
+  width: 142px;
+  height: 49px;
+  border-width: 14px 32px;
+  background-color: hsla(231, 46%, 32%, 1);
+  margin-top: 42px;
+  margin-left: 1178px;
+}
+.contactNav {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  height: 21px;
+  color: hsla(0, 0%, 100%, 1);
+}
